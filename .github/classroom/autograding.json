@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python hello_name.py",
       "input": "Riccardo\r\nRome",
-      "output": "Hello Riccardo!\r\nHello Rome!",
+      "output": "Hello Riccardo!,\r\nHello Rome!",
       "comparison": "included",
       "timeout": 10,
       "points": 10
