@@ -1,2 +1,5 @@
 name = input("Enter name: ")
-print("Hello " + name + "!")
+def print_hello(a):
+  return("Hello " + a + "!")
+
+print_hello(name)
