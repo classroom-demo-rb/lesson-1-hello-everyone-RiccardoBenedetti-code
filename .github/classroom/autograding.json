@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "test2",
+      "setup": "",
+      "run": "python hello_name.py",
+      "input": "Riccardo\r\nChiara\r\nStefano",
+      "output": "Hello Riccardo!\r\nHello Chiara!\r\nHello Stefano!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "test1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
