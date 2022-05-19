@@ -4,8 +4,8 @@
       "name": "test2",
       "setup": "",
       "run": "python hello_name.py",
-      "input": "Riccardo\r\nChiara\r\nStefano",
-      "output": "Hello Riccardo!\r\nHello Chiara!\r\nHello Stefano!",
+      "input": "Riccardo",
+      "output": "Hello Riccardo!",
       "comparison": "included",
       "timeout": 10,
       "points": 10
