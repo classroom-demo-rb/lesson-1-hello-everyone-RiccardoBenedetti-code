@@ -1,3 +1,2 @@
-name = input("Enter name: ")
-output = name
-print(output)
+name = input()
+print('Hello '+name+'!')
